@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\bin\Debug\net6.0\ContaLetraUltimaPalavraEntradaUsuário.exe
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\bin\Debug\net6.0\ContaLetraUltimaPalavraEntradaUsuário.deps.json
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\bin\Debug\net6.0\ContaLetraUltimaPalavraEntradaUsuário.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\bin\Debug\net6.0\ContaLetraUltimaPalavraEntradaUsuário.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\bin\Debug\net6.0\ref\ContaLetraUltimaPalavraEntradaUsuário.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\bin\Debug\net6.0\ContaLetraUltimaPalavraEntradaUsuário.pdb
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\obj\Debug\net6.0\ContaLetraUltimaPalavraEntradaUsuário.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\obj\Debug\net6.0\ContaLetraUltimaPalavraEntradaUsuário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\obj\Debug\net6.0\ContaLetraUltimaPalavraEntradaUsuário.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\obj\Debug\net6.0\ContaLetraUltimaPalavraEntradaUsuário.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\obj\Debug\net6.0\ContaLetraUltimaPalavraEntradaUsuário.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\obj\Debug\net6.0\ContaLetraUltimaPalavraEntradaUsuário.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\obj\Debug\net6.0\ref\ContaLetraUltimaPalavraEntradaUsuário.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\obj\Debug\net6.0\ContaLetraUltimaPalavraEntradaUsuário.pdb
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\ContaLetraUltimaPalavraEntradaUsuário\obj\Debug\net6.0\ContaLetraUltimaPalavraEntradaUsuário.genruntimeconfig.cache

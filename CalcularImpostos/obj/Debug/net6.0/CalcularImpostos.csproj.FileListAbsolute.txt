@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\bin\Debug\net6.0\CalcularImpostos.exe
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\bin\Debug\net6.0\CalcularImpostos.deps.json
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\bin\Debug\net6.0\CalcularImpostos.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\bin\Debug\net6.0\CalcularImpostos.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\bin\Debug\net6.0\CalcularImpostos.pdb
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\obj\Debug\net6.0\refint\CalcularImpostos.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.pdb
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CalcularImpostos\obj\Debug\net6.0\ref\CalcularImpostos.dll

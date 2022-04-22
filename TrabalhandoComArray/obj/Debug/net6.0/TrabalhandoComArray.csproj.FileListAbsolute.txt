@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\obj\Debug\net6.0\TrabalhandoComArray.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\obj\Debug\net6.0\TrabalhandoComArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\obj\Debug\net6.0\TrabalhandoComArray.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\obj\Debug\net6.0\TrabalhandoComArray.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\obj\Debug\net6.0\TrabalhandoComArray.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\bin\Debug\net6.0\TrabalhandoComArray.exe
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\bin\Debug\net6.0\TrabalhandoComArray.deps.json
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\bin\Debug\net6.0\TrabalhandoComArray.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\bin\Debug\net6.0\TrabalhandoComArray.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\bin\Debug\net6.0\TrabalhandoComArray.pdb
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\obj\Debug\net6.0\TrabalhandoComArray.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\obj\Debug\net6.0\refint\TrabalhandoComArray.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\obj\Debug\net6.0\TrabalhandoComArray.pdb
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\obj\Debug\net6.0\TrabalhandoComArray.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArray\obj\Debug\net6.0\ref\TrabalhandoComArray.dll

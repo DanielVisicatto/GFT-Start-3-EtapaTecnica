@@ -1,0 +1,45 @@
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.exe
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.deps.json
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.pdb
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\refint\TrabalhandoComArrayNaClasse.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.pdb
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\ref\TrabalhandoComArrayNaClasse.dll
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.exe
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.deps.json
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.dll
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.pdb
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.dll
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\refint\TrabalhandoComArrayNaClasse.dll
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.pdb
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT Start#3\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\ref\TrabalhandoComArrayNaClasse.dll
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.exe
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.deps.json
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.dll
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\bin\Debug\net6.0\TrabalhandoComArrayNaClasse.pdb
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.dll
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\refint\TrabalhandoComArrayNaClasse.dll
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.pdb
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\TrabalhandoComArrayNaClasse.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\BeDev\BackEnd\CSharpDotNet\Udemy\CSharpPooUdemy\GFT-Start-3-EtapaTecnica\TrabalhandoComArrayNaClasse\obj\Debug\net6.0\ref\TrabalhandoComArrayNaClasse.dll

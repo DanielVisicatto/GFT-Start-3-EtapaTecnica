@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\bin\Debug\net6.0\CaixaDeMercado.exe
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\bin\Debug\net6.0\CaixaDeMercado.deps.json
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\bin\Debug\net6.0\CaixaDeMercado.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\bin\Debug\net6.0\CaixaDeMercado.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\bin\Debug\net6.0\CaixaDeMercado.pdb
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\obj\Debug\net6.0\refint\CaixaDeMercado.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.pdb
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\GFT Start#3\CaixaDeMercado\obj\Debug\net6.0\ref\CaixaDeMercado.dll

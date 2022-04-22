@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\bin\Debug\net6.0\ContaLetrasUltimaPalavra.exe
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\bin\Debug\net6.0\ContaLetrasUltimaPalavra.deps.json
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\bin\Debug\net6.0\ContaLetrasUltimaPalavra.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\bin\Debug\net6.0\ContaLetrasUltimaPalavra.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\bin\Debug\net6.0\ref\ContaLetrasUltimaPalavra.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\bin\Debug\net6.0\ContaLetrasUltimaPalavra.pdb
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\obj\Debug\net6.0\ContaLetrasUltimaPalavra.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\obj\Debug\net6.0\ContaLetrasUltimaPalavra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\obj\Debug\net6.0\ContaLetrasUltimaPalavra.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\obj\Debug\net6.0\ContaLetrasUltimaPalavra.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\obj\Debug\net6.0\ContaLetrasUltimaPalavra.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\obj\Debug\net6.0\ContaLetrasUltimaPalavra.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\obj\Debug\net6.0\ref\ContaLetrasUltimaPalavra.dll
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\obj\Debug\net6.0\ContaLetrasUltimaPalavra.pdb
+C:\Users\D4ni3L\Desktop\Dio\CSharpDotNet\CSharpPooUdemy\ContaLetrasUltimaPalavra\obj\Debug\net6.0\ContaLetrasUltimaPalavra.genruntimeconfig.cache
